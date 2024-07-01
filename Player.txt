@@ -1,6 +1,4 @@
-class Player{
-	bla bla bla
-}
+
 fafafaf
 a
 f
